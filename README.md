@@ -1,5 +1,5 @@
 # dre
 
-##edditing the file##
+##edditing the file
 
 Its a markdown file in this repository.
